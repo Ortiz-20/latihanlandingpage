@@ -1,0 +1,45 @@
+/* General Styles */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+/* Hero Section */
+.hero-section {
+    background-image: url('D:/Dokumen/ProyekLatihan/latihanlandingpage/gedung.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+
+.hero-section h1 {
+    font-size: 3rem;
+    margin-bottom: 10px;
+}
+
+.hero-section p {
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+}
+
+/* Footer */
+footer {
+    background-color: #f8f8f8;
+    text-align: center;
+    padding: 20px 0;
+    margin-top: 50px;
+}
+
+footer .list-inline {
+    margin: 0;
+}
+
+footer .list-inline-item {
+    margin: 0 10px;
+}
+
+footer .list-inline-item a {
+    text-decoration: none;
+    color: #333;
+}
